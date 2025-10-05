@@ -11,3 +11,5 @@ torchvision v0.19.0
 torchinfo v1.8.0
 numpy v1.26.4
 matplotlib v3.8.4
+
+Data is available in: https://drive.google.com/drive/folders/1KXJ4bLZxGgEsjzJQTBiaq7Qe6K62Ae4w?usp=drive_link
